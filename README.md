@@ -1,1 +1,2 @@
 # CubeSimulation
+![Example](Preview.png)
